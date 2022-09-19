@@ -1,9 +1,10 @@
-# NLW Trilha Explorer --Front-End Dev
+# NLW eSports
 
 ![preview](./.github/preview.png)
 
+> Trilha Explorer
 
-Projeto construido no evento next level da Rocketseat:
+Projeto construido no evento Next Level da Rocketseat
 
 [clique aqui para acessar](https://rodrigomlucas.github.io/nlw1)
 
