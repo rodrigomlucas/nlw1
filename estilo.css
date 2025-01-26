@@ -65,7 +65,7 @@
     main {
         max-width: 580px;
         width: 90%;
-        margin:32px auto; /*em cima e embaixo 32px*/
+        margin:35px auto; /*em cima e embaixo 32px*/
         display:grid;
         gap: 24px; /*espaco entre as figuras*/
         
@@ -74,7 +74,7 @@
     section {
         color: white;
         background-image: linear-gradient(90deg,#9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-        padding-top: 6px; ;
+        padding-top: 4px; ;
         border-radius: 10px;
     }
 
