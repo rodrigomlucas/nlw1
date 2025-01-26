@@ -49,7 +49,7 @@
     header div img {
         width: 70px;            /* diminui o tamanho da foto*/
         border-radius: 50%;     /* deixou a foto redonda*/
-        margin-top:20px;
+        margin-top:auto;
 
 
     }
