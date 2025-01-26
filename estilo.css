@@ -47,8 +47,7 @@
     
 
     header div img {
-        width: 50px;            /* diminui o tamanho da foto*/
-        height:20px;
+        width: 40px;            /* diminui o tamanho da foto*/
         border-radius: 50%;     /* deixou a foto redonda*/
         margin-top:auto;
 
