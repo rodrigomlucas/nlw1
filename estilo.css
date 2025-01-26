@@ -37,7 +37,7 @@
         background-image: linear-gradient(90deg,#9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
         border-radius: 50%;
         display: flex; /*se organiz e fica bem no meio*/
-        padding: 4px; /* preenchimento da borda da fto*/
+        padding: 5px; /* preenchimento da borda da fto*/
         transition: transform .3s; /*dura 3s qnd pass mouse em cima*/
     }
 
