@@ -48,6 +48,7 @@
 
     header div img {
         width: 50px;            /* diminui o tamanho da foto*/
+        height:20px;
         border-radius: 50%;     /* deixou a foto redonda*/
         margin-top:auto;
 
@@ -65,7 +66,7 @@
     main {
         max-width: 580px;
         width: 90%;
-        margin:35px auto; /*em cima e embaixo 32px*/
+        margin:32px auto; /*em cima e embaixo 32px*/
         display:grid;
         gap: 24px; /*espaco entre as figuras*/
         
